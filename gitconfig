@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lope.gaelle@gmail.com
+	name = Gaelle Lopez
